@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimgui.a "CMakeFiles/imgui.dir/dependencies/imgui-1.92.8/imgui.cpp.o" "CMakeFiles/imgui.dir/dependencies/imgui-1.92.8/imgui_draw.cpp.o" "CMakeFiles/imgui.dir/dependencies/imgui-1.92.8/imgui_tables.cpp.o" "CMakeFiles/imgui.dir/dependencies/imgui-1.92.8/backends/imgui_impl_glfw.cpp.o" "CMakeFiles/imgui.dir/dependencies/imgui-1.92.8/backends/imgui_impl_opengl3.cpp.o"
+/usr/bin/ranlib libimgui.a

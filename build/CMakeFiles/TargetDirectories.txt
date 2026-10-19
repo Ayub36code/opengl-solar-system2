@@ -1,0 +1,4 @@
+/home/ayub/Desktop/opengl-solar-system/build/CMakeFiles/imgui.dir
+/home/ayub/Desktop/opengl-solar-system/build/CMakeFiles/opengl_solar_system.dir
+/home/ayub/Desktop/opengl-solar-system/build/CMakeFiles/edit_cache.dir
+/home/ayub/Desktop/opengl-solar-system/build/CMakeFiles/rebuild_cache.dir
